@@ -4,7 +4,7 @@ Exports raw sequencing reads that were used to build clonotypes from `.clna` fil
 
 ```
 mixcr exportReadsForClones [-fs]
-    --id [<ids>...]
+    [--id <ids>...]
     clones.clna
     output.fastq.gz
 ```
